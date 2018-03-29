@@ -1,0 +1,4 @@
+platform :ios, ‘8.0’
+target ‘IGTextViewDemo’ do
+    pod 'Masonry','~>0.6.1'
+    end
