@@ -5,5 +5,5 @@ textView输入文字，Cell自适应textView高度
 
 根据输入的文字，自动适应
 
-<br>效果动画<br>
+<br>效果<br>
 ![](https://github.com/luckyxiangfeng/AutoTextViewCellDemo/blob/master/shili.png?raw=true)
